@@ -2,8 +2,8 @@
   "name": "BanallBot",
   "description": "Telegram's bilek migic.",
   "keywords": ["python", "telegram"],
-  "logo": "https://te.legra.ph/file/4f3bde538fdca92c3d829.jpg",
-  "repository": "https://github.com/Radhak8/Banall-Bot",
+  "logo": "https://te.legra.ph/file/8e5d6999c997a4f8f4057.jpg",
+  "repository": "https://github.com/Artvikt143/Artvikbanall",
   "stack": "container",
   "addons": [
       {
