@@ -1,4 +1,4 @@
-# BanAllBot
+# artvikBanAllBot
 This Bot Will Help You To Restrict all The members of the group
 
 <h3 align="center"><strong><code>BanallBot 😈</code></strong></h3>
@@ -21,7 +21,7 @@ This Bot Will Help You To Restrict all The members of the group
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>:-</code><br>
-<code>Telegram:- <a href="https://t.me/GhostRadha">@GhostRadha</a></code><br>
+<code>Telegram:- <a href="https://t.me/artvik_bot_update">@artvik_bot_update</a></code><br>
 <code>Github:- <a href="https://github.com/Radhak8">Radhak8</a></code><br>
 </details>
 </p>
